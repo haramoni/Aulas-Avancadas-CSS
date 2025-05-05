@@ -21,6 +21,7 @@
   width: 20px;
   height: 20px;
   margin-right: 2px;
+  order: 2;
 }
 
 .pai div:nth-child(3) {
@@ -35,4 +36,5 @@
 .pai div:nth-child(7) {
   background-color: red;
   height: 240px;
+  order: 1;
 }
